@@ -151,17 +151,34 @@ SUS 75.5, 100% completion on booking and matching flows, 2 critical issues ident
 
 ## 📣 LinkedIn Post (Ready to Copy)
 
-If you want to share this project on LinkedIn, you can use this caption:
+If you want to share this project on LinkedIn, you can use this keyword-focused caption:
 
-> Excited to share **NestMate** — a 24-screen high-fidelity mobile app UI designed for the Pakistani rental market as part of our AHCI project at FAST-NUCES.  
+> Excited to share **NestMate** — a high-fidelity **mobile app UI/UX case study** for the Pakistani rental market, built as part of our AHCI project at FAST-NUCES.  
 >  
-> We focused on trust, compatibility, and better living-term negotiation through features like CNIC verification, lifestyle profiling, and a compatibility dashboard.  
+> **NestMate** solves key renting pain points with **CNIC verification**, **lifestyle profiling**, **roommate compatibility scoring**, and smoother **lease-term negotiation**.  
+>  
+> This project includes **24 hi-fi screens**, a reusable **atomic design system** in Figma, and an interactive prototype with complete user flows.  
 >  
 > ✅ SUS Score: **75.5/100**  
 > 🎨 Designed in Figma with a reusable atomic design system  
 > 🔗 Prototype: https://www.figma.com/design/dsPfDEltahyJgfJylvfEAT  
 >  
-> #UIUX #ProductDesign #Figma #HCI #UXResearch #DesignSystem #StudentProject
+> Feedback is welcome — especially from people working on **PropTech**, **UX research**, and **mobile product design**.  
+>  
+> #UIUX #UXDesign #UIUXDesign #ProductDesign #MobileAppDesign #Figma #Prototyping #UXResearch #DesignSystem #PropTech #CaseStudy #StudentProject
+
+### 📸 What to upload with the post
+
+- **Screenshots (4–6):**
+  1. Onboarding + account setup
+  2. CNIC verification flow
+  3. Lifestyle/profile preferences
+  4. Compatibility dashboard
+  5. Property discovery + listing details
+  6. Key final screen / success state
+- **Video (20–40 seconds):**
+  - Export a short prototype walkthrough from Figma
+  - Show the flow in this order: onboarding → verification → preferences → matching/dashboard → final action
 
 ---
 
