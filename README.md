@@ -149,4 +149,20 @@ SUS 75.5, 100% completion on booking and matching flows, 2 critical issues ident
 
 ---
 
+## 📣 LinkedIn Post (Ready to Copy)
+
+If you want to share this project on LinkedIn, you can use this caption:
+
+> Excited to share **NestMate** — a 24-screen high-fidelity mobile app UI designed for the Pakistani rental market as part of our AHCI project at FAST-NUCES.  
+>  
+> We focused on trust, compatibility, and better living-term negotiation through features like CNIC verification, lifestyle profiling, and a compatibility dashboard.  
+>  
+> ✅ SUS Score: **75.5/100**  
+> 🎨 Designed in Figma with a reusable atomic design system  
+> 🔗 Prototype: https://www.figma.com/design/dsPfDEltahyJgfJylvfEAT  
+>  
+> #UIUX #ProductDesign #Figma #HCI #UXResearch #DesignSystem #StudentProject
+
+---
+
 *This is a UI/UX design project — there is no application code. The repository contains the project report, design documentation, and assets.*
